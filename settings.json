@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "  Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "fuadnaqib.aternos.me",
+    "port": 34180,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "im a regular bot lah",
+        "Chicken Nigga Chicken Nigga Chicken Nigga",
+        "CurryChampion Gacur"
       ]
     },
     "chat-log": true,
